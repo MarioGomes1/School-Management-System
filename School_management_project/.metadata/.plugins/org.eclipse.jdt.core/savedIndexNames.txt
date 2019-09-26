@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\mario\OneDrive\Desktop\Projects\Java\School_management_project\.metadata\.plugins\org.eclipse.jdt.core
